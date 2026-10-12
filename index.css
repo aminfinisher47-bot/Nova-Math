@@ -1,0 +1,22 @@
+ *{
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+
+header {
+  background-color: #111827;
+  color: white;
+  padding: 23px;
+}
+
+a {
+  color: #60A5FA;
+  text-decoration: none;
+  margin: 15px;
+  
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
